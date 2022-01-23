@@ -23,15 +23,7 @@
       <change beforePath="$PROJECT_DIR$/dist/project1/vendor.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/project1/wallp.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/project1/овочі4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/car-information/car-information.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/car-information/car-information.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/forms/forms.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/forms/forms.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/login/login.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/login/login.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1053,6 +1045,7 @@
       <workItem from="1642939948263" duration="1597000" />
       <workItem from="1642943998209" duration="1769000" />
       <workItem from="1642945822715" duration="775000" />
+      <workItem from="1642947151815" duration="97000" />
     </task>
     <task id="LOCAL-00015" summary="add new menu&#10;&#10;Signed-off-by: lenovo &lt;skodorvlad371@gmail.com&gt;">
       <created>1611059966827</created>
