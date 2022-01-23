@@ -17,6 +17,10 @@ h1{
   }
 }
 
+.background-block{
+  background: #eee;
+}
+
 h3{
   text-align: center;
   font-size: 24px;
@@ -137,7 +141,7 @@ header{
   color: #fff;
   display: flex;
   justify-content: center;
-  background: url('/assets/sec1.jpg');
+  background-image: url('https://vladskudor.github.io/project/assets/images/sec1.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   padding: 260px 0;
@@ -258,7 +262,7 @@ header{
 }
 
 .section-three{
-  background-image: url(/assets/sec3.jpg);
+  background: url('https://vladskudor.github.io/project/assets/images/sec3.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 37px;
@@ -468,7 +472,7 @@ video{
 }
 
 .section-six{
-  background: url(/assets/sec6.jpg);
+  background: url('https://vladskudor.github.io/project/assets/images/sec6.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom;

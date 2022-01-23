@@ -31,7 +31,7 @@ export class LoginComponent implements OnInit {
   }
 
   public nav(): void {
-    this.router.navigate(['/forms']);
+    // this.router.navigate(['/forms']);
   }
 
   public navigateStatus(): void {

@@ -28,7 +28,7 @@ header {
   }
 
   header {
-    background: url('src/assets/images/wallp.jpeg');
+    background: url('/assets/images/wallp.jpeg');
     background-repeat: no-repeat;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
@@ -245,7 +245,8 @@ header {
   }
 
   #header-text p {
-    text-align: center;
+    text-align: left;
+    font-size: 12px;
     padding: 10px 40px 10px 40px;
   }
 }

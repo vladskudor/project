@@ -6,60 +6,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29cea029-e7df-4ca7-a48d-2ee4b40ab7c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/project1/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/sec1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/sec3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/sec6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/section-two-logo/logo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/section-two-logo/logo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images-layout2/section-two-logo/logo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/02_One Page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/html-css.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/images.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/images2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/images6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/images7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/images8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/images9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/img4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/img5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/renaultblack.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/renaultblack2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/sec1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/sec3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/sec6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/section-two-logo/logo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/section-two-logo/logo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/section-two-logo/logo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/thebest.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/wallp.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/загружено (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/загружено.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/images/овочі4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/sec1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/sec3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/sec6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/section-two-logo/logo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/section-two-logo/logo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/assets/section-two-logo/logo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/main.5522ad75700501d3fea9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/polyfills.35a5ca1855eb057f016a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/renaultblack2.41d6ceef9e4231471e37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/runtime.acf0dec4155e77772545.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/scripts.85d259ef49693c4b58c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/styles.09e6a94a64685188af03.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/wallp.37c9143bc34646ff5546.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/овочі4.317515bbe39e55d2c4e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/project1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/renaultblack2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/scripts.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/styles.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/wallp.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/овочі4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/car-information/car-information.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/car-information/car-information.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/forms/forms.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/forms/forms.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,17 +119,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project1\src\app" />
+      <recent name="D:\project1\src\app\components\cars" />
+      <recent name="D:\project1\src\app\components\login" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project1\src" />
       <recent name="D:\project1\src\app\components\service" />
       <recent name="D:\project1\src\app\components\directive" />
       <recent name="D:\project1\src\app\components\guard" />
       <recent name="D:\project1\src\assets\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project1\src\app" />
-      <recent name="D:\project1\src\app\components\cars" />
-      <recent name="D:\project1\src\app\components\login" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.backend.js">
@@ -1077,7 +1049,10 @@
       <workItem from="1642869801807" duration="1023000" />
       <workItem from="1642926674144" duration="1834000" />
       <workItem from="1642928619973" duration="21000" />
-      <workItem from="1642930138260" duration="693000" />
+      <workItem from="1642930138260" duration="1614000" />
+      <workItem from="1642939948263" duration="1597000" />
+      <workItem from="1642943998209" duration="1769000" />
+      <workItem from="1642945822715" duration="775000" />
     </task>
     <task id="LOCAL-00015" summary="add new menu&#10;&#10;Signed-off-by: lenovo &lt;skodorvlad371@gmail.com&gt;">
       <created>1611059966827</created>
@@ -1540,6 +1515,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="585" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1642844088735" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1642945241957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1642945241957" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1642845161396">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

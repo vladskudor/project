@@ -11,9 +11,9 @@ export class AppComponent implements OnInit {
   public name: string;
 
   constructor(private newSvc: NewServiceService) {
-    window.addEventListener('beforeunload', (event) => {
-      event.returnValue = `You have unsaved changes, leave anyway?`;
-    });
+    // window.addEventListener('beforeunload', (event) => {
+    //   event.returnValue = `You have unsaved changes, leave anyway?`;
+    // });
   }
 
   ngOnInit(): void {

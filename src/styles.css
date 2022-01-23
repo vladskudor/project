@@ -5,8 +5,8 @@ html, body {
 }
 
 body {
-  background: #212529;
-  background: white;
+  background: #212529!important;
+  /*background: white;*/
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
