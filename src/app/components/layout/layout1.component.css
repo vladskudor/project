@@ -8,7 +8,7 @@ header {
   width: 100%;
   /*height: 670px;*/
   /*background: #e9e9e9;	*/
-  background: url('/assets/images/wallp.jpeg');
+  background: url('src/assets/images/wallp.jpeg');
   background-repeat: no-repeat;
   -moz-background-size: 100%;
   -webkit-background-size: 100%;
@@ -28,7 +28,7 @@ header {
   }
 
   header {
-    background: url('/assets/images/wallp.jpeg');
+    background: url('src/assets/images/wallp.jpeg');
     background-repeat: no-repeat;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
@@ -41,7 +41,7 @@ header {
 }
 
 #header-home {
-  background-image: url('/assets/images/wallp.jpeg');
+  background-image: url('src/assets/images/wallp.jpeg');
 }
 
 #header-box {

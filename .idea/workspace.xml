@@ -7,21 +7,8 @@
   <component name="ChangeListManager">
     <list default="true" id="29cea029-e7df-4ca7-a48d-2ee4b40ab7c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/project1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/polyfills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/polyfills.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/runtime.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/scripts.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/styles.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/vendor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/vendor.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project1/овочі4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/cars/cars.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/cars/cars.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,17 +96,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project1\src\app" />
+      <recent name="D:\project1\src\app\components\cars" />
+      <recent name="D:\project1\src\app\components\login" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project1\src" />
       <recent name="D:\project1\src\app\components\service" />
       <recent name="D:\project1\src\app\components\directive" />
       <recent name="D:\project1\src\app\components\guard" />
       <recent name="D:\project1\src\assets\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project1\src\app" />
-      <recent name="D:\project1\src\app\components\cars" />
-      <recent name="D:\project1\src\app\components\login" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.backend.js">
@@ -1035,7 +1022,9 @@
       <workItem from="1642852147766" duration="1778000" />
       <workItem from="1642853985976" duration="1551000" />
       <workItem from="1642856347950" duration="1677000" />
-      <workItem from="1642867156079" duration="795000" />
+      <workItem from="1642867156079" duration="1635000" />
+      <workItem from="1642869801807" duration="1023000" />
+      <workItem from="1642926674144" duration="935000" />
     </task>
     <task id="LOCAL-00015" summary="add new menu&#10;&#10;Signed-off-by: lenovo &lt;skodorvlad371@gmail.com&gt;">
       <created>1611059966827</created>

@@ -31,7 +31,7 @@ tr:hover td {
   background: black;
   width: 100%;
   opacity: .9;
-  background-image: url("/assets/images/renaultblack2.jpg");
+  background-image: url("src/assets/images/renaultblack2.jpg");
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-position: center;
