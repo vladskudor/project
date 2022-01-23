@@ -137,7 +137,7 @@ header{
   color: #fff;
   display: flex;
   justify-content: center;
-  background: url(/assets/sec1.jpg);
+  background: url('src/assets/sec1.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   padding: 260px 0;
@@ -258,7 +258,7 @@ header{
 }
 
 .section-three{
-  background-image: url(/assets/sec3.jpg);
+  background-image: url('src/assets/sec3.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 37px;
@@ -468,7 +468,7 @@ video{
 }
 
 .section-six{
-  background: url(/assets/sec6.jpg);
+  background: url('src/assets/sec6.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom;

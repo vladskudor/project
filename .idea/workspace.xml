@@ -7,8 +7,13 @@
   <component name="ChangeListManager">
     <list default="true" id="29cea029-e7df-4ca7-a48d-2ee4b40ab7c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/project1/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/project1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project1/main.3951e462a2d78ce2fad9.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/cars/cars.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/cars/cars.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/layout1.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/layout/layout1.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/layout1.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout2/layout2.component.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +87,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -96,17 +101,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project1\src\app" />
-      <recent name="D:\project1\src\app\components\cars" />
-      <recent name="D:\project1\src\app\components\login" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project1\src" />
       <recent name="D:\project1\src\app\components\service" />
       <recent name="D:\project1\src\app\components\directive" />
       <recent name="D:\project1\src\app\components\guard" />
       <recent name="D:\project1\src\assets\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project1\src\app" />
+      <recent name="D:\project1\src\app\components\cars" />
+      <recent name="D:\project1\src\app\components\login" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.backend.js">
@@ -1024,7 +1029,9 @@
       <workItem from="1642856347950" duration="1677000" />
       <workItem from="1642867156079" duration="1635000" />
       <workItem from="1642869801807" duration="1023000" />
-      <workItem from="1642926674144" duration="935000" />
+      <workItem from="1642926674144" duration="1834000" />
+      <workItem from="1642928619973" duration="21000" />
+      <workItem from="1642930138260" duration="388000" />
     </task>
     <task id="LOCAL-00015" summary="add new menu&#10;&#10;Signed-off-by: lenovo &lt;skodorvlad371@gmail.com&gt;">
       <created>1611059966827</created>
@@ -1479,10 +1486,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="541" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1642076173801" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1642843947617">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1642928639160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642843947617" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642928639160" />
     <state x="585" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642844088735">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
