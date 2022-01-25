@@ -30,6 +30,10 @@ export class Layout1Component implements OnInit {
     }
   }
 
+  public upToMenu(): void{
+    window.scrollTo(0, 0);
+  }
+
   public plusLikes(elementLikes): void {
 
 

@@ -1,12 +1,12 @@
-<div>
+<div style="background: white">
   <div id="header-box">
-    <div (click)="menu = !menu" id="media-button-div">
-      <ul style="list-style: none;cursor: pointer">
-        <li>______</li>
-        <li>______</li>
-        <li>______</li>
-      </ul>
-    </div>
+<!--    <div (click)="menu = !menu" id="media-button-div">-->
+<!--      <ul style="list-style: none;cursor: pointer">-->
+<!--        <li>______</li>-->
+<!--        <li>______</li>-->
+<!--        <li>______</li>-->
+<!--      </ul>-->
+<!--    </div>-->
     <nav *ngIf="!menu" id="menu">
       <a href="/layout1/#menu" style="color: #4ad2cd">HOME</a>
       <a href="/layout1/#content">ABOUT</a>
@@ -23,12 +23,15 @@
           <h1>
             We Design and Develop
           </h1>
+          <h2>
+            We Design and Develop
+          </h2>
         </div>
 
         <div>
           <p>
-            We are a new design studio based in USA. We have over<br>
-            20 years of combined experience, and know a thing ar two<br> about designing websites and mobile apps.
+            We are a new design studio based in USA. We have over
+            20 years of combined experience, and know a thing ar two about designing websites and mobile apps.
           </p>
         </div>
 
@@ -48,7 +51,6 @@
     <div>
       <h1>About Us</h1>
     </div>
-
     <div>
       <p>
         Divide have don't man wherein air fourth. Own itself make have night won't make.<br>
@@ -59,6 +61,14 @@
 
     <div id="main-img">
       <img alt="" src="./assets/images/02_One Page.png">
+    </div>
+  </div>
+
+  <div class="block-to-menu" (click)="upToMenu()">
+    <div>
+      <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-arrow-up-circle" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
+      </svg>
     </div>
   </div>
 
@@ -99,7 +109,6 @@
           </div>
         </div>
       </div>
-
     </div>
 
     <div id="content-options">
@@ -505,7 +514,7 @@
       </div>
 
       <form id="registr-box-input">
-        <div id="inp1-2">
+        <div class="auth-input">
           <div>
             <input placeholder="Your Name" type="text">
           </div>
@@ -513,14 +522,14 @@
             <input class="email-input" placeholder="Your Email" type="text">
           </div>
         </div>
-        <div id="inp3">
+        <div class="auth-input">
           <div>
             <input placeholder="Your Title" type="text">
           </div>
         </div>
-        <div id="inp4">
+        <div class="auth-input">
           <div>
-            <input placeholder="Your Comment" type="text">
+            <input class="auth-input-comment" placeholder="Your Comment" type="text">
           </div>
         </div>
         <div class="message-div">
@@ -609,7 +618,6 @@
         </div>
       </div>
     </div>
-
   </footer>
   <!--  </main>-->
 </div>
