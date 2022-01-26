@@ -21,8 +21,8 @@ export class FormsComponent implements OnInit {
   public thisUser: any;
   public currentUser: any;
   public email: string = '';
-  public passw1: string = '';
-  public passw2: string = '';
+  public passw1: number = 0;
+  public passw2: number = 0;
   public name: string;
   public surname: string;
   public day: string;
@@ -57,9 +57,19 @@ export class FormsComponent implements OnInit {
     this.open();
     this.globalUser = JSON.parse(localStorage.getItem('currentUser'));
     const users = JSON.parse(localStorage.getItem('person'));
+    const user = JSON.parse(localStorage.getItem('currentUser'));
 
     if (users) {
       this.allUsers = users;
+    }
+
+    if (!user) {
+      document.getElementById('sectionRegistr').style.display = 'block';
+    }
+
+    if (user) {
+      document.getElementById('sectionRegistr').style.display = 'none';
+      this.currentUser = user;
     }
 
     if (this.globalUser) {

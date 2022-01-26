@@ -19,7 +19,7 @@
 </div>
 
 <!--Реєстрація-->
-<section *ngIf="!currentUser" style="padding: 0 0 20px 0">
+<section id="sectionRegistr" style="padding: 0 0 20px 0">
   <div id="form1">
     <form action="#">
       <div>
@@ -43,7 +43,7 @@
         <label for="password">
           <p>Придумайте пароль</p>
           <input #inppassword [(ngModel)]="passw1"
-                 [ngClass]="{ none: passw1.length < 0 , small: passw1.length > 0 , big: passw1.length > 7 }"
+                 [ngClass]="{ none: passw1 < 0 , small: passw1 > 0 , big: passw1 > 7 }"
                  id="password"
                  maxlength="8" name="password" placeholder="password" type="password">
           <button (click)="inppassword.type = 'text'"
@@ -54,17 +54,17 @@
                   [ngStyle]="{ display: inppassword.type == 'text' ? 'block' : 'none'}"
                   id="form-button">(o)
           </button>
-          <em [ngStyle]="{ display: passw1.length < 8 ? 'block' : 'none' }"
+          <em [ngStyle]="{ display: passw1 < 8 ? 'block' : 'none' }"
               style="display: none;color: red;font-size: 14px">
             <br>Пароль повинен містити 8 символів!</em>
-          <div>
-            <p>{{ passw1 }}</p>
-          </div>
+<!--          <div>-->
+<!--            <p>{{ passw1 }}</p>-->
+<!--          </div>-->
         </label>
         <div>
           <div id="passwordiv">
             <div
-              [ngStyle]="{background: passw1.length < 8 ? 'red' : 'green' , width: passw1.length < 8 ? '100px' : '185px'}"
+              [ngStyle]="{background: passw1 < 8 ? 'red' : 'green' , width: passw1 < 8 ? '100px' : '185px'}"
               id="passwinsidediv">
               <!--password-->
             </div>
@@ -76,15 +76,17 @@
         <label for="passw2">
           <p>Введіть пароль повторно</p>
           <input #inppassw2 [(ngModel)]="passw2"
-                 [ngClass]="{ none: !passw2.length < 0 , small: passw2!= passw1, big: passw2 == passw1 && passw1 > 0 }"
+                 [ngClass]="{ none: passw2 < 0 , small: passw2 !== passw1, big: passw2 == passw1 && passw1 > 0 }"
                  id="passw2"
                  maxlength="8"
                  name="passw2" placeholder="підтвердити пароль" type="password">
-          <em [ngStyle]="{ display: passw2 != passw1 ? 'block' : 'none' }" style="color: red;">Паролі не
+<!--          <em [ngStyle]="{ display: passw2.length !== passw1 ? 'block' : 'none' }" style="color: red;">Паролі не-->
+<!--            співпадають!</em>-->
+          <em *ngIf="passw1 !== passw2" style="color: red;">Паролі не
             співпадають!</em>
-          <div>
-            <p>{{ passw2 }}</p>
-          </div>
+<!--          <div>-->
+<!--            <p>{{ passw2 }}</p>-->
+<!--          </div>-->
         </label>
       </div>
 

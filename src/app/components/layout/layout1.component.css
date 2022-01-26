@@ -82,7 +82,9 @@ header {
 
   #button a button{
     margin: 0;
-    padding: 10px 0;
+    padding: 5px 0;
+    font-size: 14px;
+    width: 100px;
   }
 }
 
@@ -98,6 +100,9 @@ h2{
   #header-text h1{
     font-size: 16px;
   }
+  #header-text p{
+    padding: 0 10px;
+  }
 }
 
 @media (max-height: 670px) {
@@ -107,11 +112,15 @@ h2{
   }
 
   #header-text p{
-    display: none;
+    /*display: none;*/
   }
 
   #header-text h2{
     display: inline;
+  }
+
+  p{
+    margin-bottom: 0;
   }
 }
 
@@ -218,6 +227,7 @@ h2{
 }
 
 #button button {
+  border-radius: 10px;
   cursor: pointer;
   border: none;
   width: 200px;
@@ -249,7 +259,7 @@ h2{
   }
   #header-text {
     width: 100%;
-    padding: 0 100px;
+    padding: 0;
     margin: 100px 0 !important;
     text-align: center;
     /*margin-top: 300px;*/
@@ -283,7 +293,7 @@ h2{
   #header-text p {
     text-align: center;
     font-size: 12px;
-    padding: 10px 40px 10px 40px;
+    padding: 0 10px;
   }
 }
 
@@ -501,7 +511,7 @@ section {
 video {
   width: 70%;
   max-height: 760px;
-  padding: 100px 10% 100px 10%;
+  /*padding: 100px 10% 100px 10%;*/
 }
 
 @media (max-width: 800px) {
@@ -697,7 +707,7 @@ footer a {
   }
 
   #div-img {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 }
 
