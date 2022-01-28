@@ -137,7 +137,7 @@ export class FormsComponent implements OnInit {
       }
 
       const newUser = {
-        email: inpmail + '@gmail.com',
+        email: inpmail,
         passw1: inppassword,
         passw2: inppassw2,
         name: inpname,

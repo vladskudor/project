@@ -19,7 +19,7 @@
 </div>
 
 <!--Реєстрація-->
-<section id="sectionRegistr" style="padding: 0 0 20px 0">
+<section id="sectionRegistr" style="padding: 30px">
   <div id="form1">
     <form action="#">
       <div>
@@ -39,7 +39,7 @@
         </label>
       </div>
 
-      <div>
+      <div class="block-password">
         <label for="password">
           <p>Придумайте пароль</p>
           <input #inppassword [(ngModel)]="passw1"
@@ -47,11 +47,11 @@
                  id="password"
                  maxlength="8" name="password" placeholder="password" type="password">
           <button (click)="inppassword.type = 'text'"
-                  [ngStyle]="{ display: inppassword.type == 'password' ? 'block' : 'none'}"
+                  *ngIf="inppassword.type == 'password'"
                   id="form-button">(o)
           </button>
           <button (click)="inppassword.type = 'password'"
-                  [ngStyle]="{ display: inppassword.type == 'text' ? 'block' : 'none'}"
+                  *ngIf="inppassword.type == 'text'"
                   id="form-button">(o)
           </button>
           <em [ngStyle]="{ display: passw1 < 8 ? 'block' : 'none' }"
@@ -90,7 +90,7 @@
         </label>
       </div>
 
-      <div>
+      <div class="name-surname-block">
         <label for="name">
           <p>Як вас звати?</p>
           <div>
@@ -106,7 +106,7 @@
       <div>
         <label for="date">
           <p>Дата народження</p>
-          <div>
+          <div class="birsday-block">
             <input #inpday [(ngModel)]="day" id="date" name="day" placeholder="day" type="number">
             <input #inpmoonth [(ngModel)]="moonth" name="moon" placeholder="moon" type="number">
             <input #inpyear [(ngModel)]="year" name="year" placeholder="year" type="number">
@@ -117,23 +117,25 @@
         </div>
       </div>
 
-      <div>
+      <div class="block-sex">
         <p>Оберіть рід</p>
         <label for="r1">Жіночий<input #r1 (click)="funR1(r1 , r2)" id="r1" name="r1" type="radio"></label>
         <label for="r2">Чоловічий<input #r2 (click)="funR2(r1 , r2 )" id="r2" name="r2" type="radio"></label>
       </div>
 
-      <div>
+      <div class="button-finish">
+        <button
+          (click)="register(inpmail.value , inppassword.value , inppassw2.value , inpname.value , inpsurname.value , inpday.value , inpmoonth.value , inpyear.value , sex)"
+          id="form-button">
+          Завершити <b> > </b></button>
+
+        <button id="form-button" type="reset">Очистити</button>
+
         <button
           (click)="printForm( user , inpmail , inppassword , inppassw2 , inpname.value , inpsurname , inpday , inpmoonth , inpyear , sex)"
           id="form-button">
           Увійти
         </button>
-        <button
-          (click)="register(inpmail.value , inppassword.value , inppassw2.value , inpname.value , inpsurname.value , inpday.value , inpmoonth.value , inpyear.value , sex)"
-          id="form-button">
-          Завершити реєстрацію <b> > </b></button>
-        <button id="form-button" type="reset">Видалити все</button>
       </div>
     </form>
   </div>
